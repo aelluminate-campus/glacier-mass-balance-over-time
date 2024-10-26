@@ -86,7 +86,3 @@ The Support Vector Machine model, while still performing well with an R² of 90.
 ## Conclusion
 
 This project successfully highlights the significant decline in glacier mass balance over time, emphasizing the urgent implications of climate change on glacial regions. The analysis demonstrated the varying effectiveness of different regression models in predicting mass balance trends, with both Decision Tree and Random Forest models achieving exceptional accuracy. These findings underscore the necessity for ongoing monitoring and research into climate impacts on glaciers. Furthermore, leveraging historical data will be crucial in enhancing future climate models and strategies aimed at mitigating climate change effects.
-
-## Contributors
-
-❗ NOTE: Your professor be the one to fill this section.
